@@ -1,9 +1,9 @@
 body{
-    background-image: url('images/Background.jpeg');
+    background-image: url('../images/Background.jpeg');
 }
 
 #burgerPageBody{
-    background-image: url('images/background-burger.jpeg');
+    background-image: url('../images/background-burger.jpeg');
 }
 
 .menuSection>h2{
