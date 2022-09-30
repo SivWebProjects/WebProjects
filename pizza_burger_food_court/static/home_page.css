@@ -1,5 +1,5 @@
 body{
-    background-image: url('images/istockphoto-1074255462-170667a.jpg');
+    background-image: url('../images/istockphoto-1074255462-170667a.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -34,7 +34,6 @@ body{
 .homeNav{
     margin: auto;
     padding: 20px;
-    /* position: fixed, relative, sticky; */
 }
 
 .homeList{
